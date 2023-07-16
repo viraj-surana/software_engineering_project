@@ -194,7 +194,7 @@ public class diijkstra {
                 else if (i == 3) {
                     System.out.print("Graph4:");
                     System.out.println();
-                    input = "C:\\Users\\Viraj Surana\\IdeaProjects\\Graph_Project\\src\\com\\viraj\\social_network_list_4.txt";
+                    input = "C:\\Users\\Viraj Surana\\IdeaProjects\\Graph_Project\\src\\com\\viraj\\collaboration_network_list.txt";
                     s = 0 ;
                 }
                 In in = new In(input);

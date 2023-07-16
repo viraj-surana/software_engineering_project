@@ -176,7 +176,7 @@ public class prim {
                 }
                 if (i == 3) {
                     System.out.println("Graph4:");
-                    input = "C:\\Users\\Viraj Surana\\IdeaProjects\\Graph_Project\\src\\com\\viraj\\social_network_list_4.txt";
+                    input = "C:\\Users\\Viraj Surana\\IdeaProjects\\Graph_Project\\src\\com\\viraj\\collaboration_network_list.txt";
                 }
 
                 In in = new In(input);
