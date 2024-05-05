@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/.idea/algs4.jar!/" />
@@ -16,6 +16,19 @@
         <SOURCES>
           <root url="jar://$USER_HOME$/Downloads/.idea/algs4.jar!/" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Spark/spark-3.5.1-bin-hadoop3/spark-3.5.1-bin-hadoop3/jars" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Spark/spark-3.5.1-bin-hadoop3/spark-3.5.1-bin-hadoop3/jars" />
+        </SOURCES>
+        <jarDirectory url="file://C:/Spark/spark-3.5.1-bin-hadoop3/spark-3.5.1-bin-hadoop3/jars" recursive="false" />
+        <jarDirectory url="file://C:/Spark/spark-3.5.1-bin-hadoop3/spark-3.5.1-bin-hadoop3/jars" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
   </component>

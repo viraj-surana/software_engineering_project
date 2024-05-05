@@ -14,7 +14,7 @@ package com.viraj;
         }
 
         static class StudentLinkedList {
-            private Student head;
+            Student head;
 
             public StudentLinkedList() {
                 this.head = null;
